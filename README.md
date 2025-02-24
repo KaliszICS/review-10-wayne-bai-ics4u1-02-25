@@ -7,10 +7,10 @@ Return string with a pyramid of asterisks(*) back to the user of that many rows.
 
 pryamid(4) returns:
 
-		   *
-		  * *
-		 * * *
-		* * * *
+   *
+  * *
+ * * *
+* * * *
 
 2. Create a function called _square()_ which takes in an integer as a parameter.
 Return string with a triangle of asterisks(*) back to the user of that many rows and columns.
